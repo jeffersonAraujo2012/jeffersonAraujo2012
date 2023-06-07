@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jefferson Araújo</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate full stack developer from Brazil</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-2.gif" alt="jeffersonaraujo2012" height="360" /></p>
 
