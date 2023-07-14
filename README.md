@@ -15,6 +15,50 @@
     <tr>
       <td>
         <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          height="40"
+          alt="html5 logo"
+        />
+        <img width="12" /> HTML
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          height="40"
+          alt="css3 logo"
+        />
+        <img width="12" /> CSS
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          alt="bootstrap"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Bootstrap
+      </td>
+      <td>
+        <img
+          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+          alt="figma"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Figma
+      </td>
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/gnubash/4EAA25"
+          height="40"
+          alt="bash logo"
+        />
+        <img width="12" /> Bash
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="40"
           alt="javascript logo"
